@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Reliable and Ethical AI Automation Platforms
+slug: reliable-and-ethical-ai-automa
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: reliable-and-ethical-ai-automa.msx.dev
